@@ -14,8 +14,9 @@ Two ways to use:
      myBenchmark.QBen_end();
      myBenchmark.QBen_print_E_Time(); //Prints time in seconds
   
-  B) QBenchmark myFunctionBenchmark(//# of time to run function, function name, any arguments); //This spits out the average run time of the function. 
--------------------
+  B) QBenchmark anyName(# of times to run function, function name, any arguments); //Spits out an average time in seconds of run time of the function. 
+
+------------------
 QMacros
 
 A growing collection of useful macros. 
