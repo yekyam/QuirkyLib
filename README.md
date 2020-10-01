@@ -9,6 +9,7 @@ Just include this file into your main project to access all other files.
 QBenchmark
 
 Two ways to use: 
+
   A) QBenchmark myBenchmark; //This makes starts a timer
      //some code here
      myBenchmark.QBen_end();
